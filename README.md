@@ -1,66 +1,89 @@
-## Hi there 
+<!--
+  ────────────────────────────────────────────────────────────
+  DamHiyo 님 프로필 README (SeungAh-Yoo99 구조 참고 · 다크모드)
+  채울 곳: 프로젝트 표 / Experiences / Certificates 의 [대괄호] 부분
+  통계·스택·이메일은 이미 채워져 있습니다.
+  ────────────────────────────────────────────────────────────
+-->
 
+<!-- ===== 헤더 배너 ===== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+DamHiyo+%F0%9F%91%8B;ML+%2F+DL+%2F+AI+Engineer;Data+Analysis+%26+Modeling;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&fontColor=58A6FF&height=200&section=header&text=Welcome%20to%20DamHiyo's%20GitHub!%20%F0%9F%91%8B&fontSize=36" alt="header" />
 
 </div>
 
+## Contact
 
-<div align="center">
-
-
-</div>
-
-<br/>
+[![Gmail](https://img.shields.io/badge/phantom9679@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:phantom9679@gmail.com)
 
 ## About Me
 
--  **ML / DL / AI 모델**을 만들고 있어요
--  **데이터 분석** 관련 전공으로 공부 중입니다
-- **제조AI**에 관심을 가지고 있습니다
+안녕하세요,
+**데이터를 파고들며 모델을 만드는 YuDam Jung입니다.** 
 
-<br/>
+- **ML / DL / AI 모델**을 만들고 있어요
+- **데이터 분석** 관련 전공으로 공부 중입니다
+- **제조ai**도메인에 관심을 가지고 있어요
 
-##  Tech Stack
+## Tech Stacks
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
-<br/>
-
-
-## 🔗 Connect with Me
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/phantom9679@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phantom9679@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamHiyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)](https://github.com/DamHiyo)
+[![DamHiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamHiyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DamHiyo)
 
 </div>
 
-<br/>
+## Projects
+
+<!-- 본인 프로젝트로 행을 채우거나 지우세요. 링크는 [이름](URL) 형식 -->
+
+| 프로젝트 | 프로젝트 설명 | 기간 | 주관처 | 참고 |
+| --- | --- | --- | --- | --- |
+| **[프로젝트명](프로젝트_URL)** | [한 줄 설명: 무슨 모델/분석을 했는지] | 2025.MM ~ 2025.MM | [학교/대회/개인] | [수상·논문 등 특이사항] |
+| **[CarNeRF](https://github.com/Wlsghdh/CarNeRF)** | [이미지 분류 DL 모델 개발] | 2026.02 ~ 현재 | 개인 | |
+| **[TabPFN-Anchor](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 논문 |
+
+## Algorithm / Competitions
+
+<!-- 알고리즘 풀이, 캐글 등 대회 기록. 없으면 이 섹션 통째로 삭제 -->
+
+- 2025.08 [교내 인공지능 스터디 대회 **1위**]
+- 2026.01 [교내 제4기 AI-SW Developers **3위**]
+
+
+## Experiences
+
+<!-- 최신순으로 작성 -->
+- 2025.08 ~ 2026.02 **[학부연구생/안홍렬 연구실]**
+- 2020.03 ~ 현재 **[데이터과학부/수원대학교]**
+
+## Certificates
+
+<!-- 보유 자격증. 없으면 이 섹션 통째로 삭제 -->
+
+- 2025.09.05 **ADsP - 한국데이터산업진흥원**
+- 2024.12.13 **SQLD - 한국데이터산업진흥원**
+- 2023.02.17 **컴퓨터활용능력 2급 - 대한상공회의소**
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DamHiyo&style=flat-square&color=58A6FF)
 
 </div>
- looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
