@@ -56,7 +56,6 @@
 
 | 프로젝트 | 프로젝트 설명 | 기간 | 주관처 | 참고 |
 | --- | --- | --- | --- | --- |
-| **[프로젝트명](프로젝트_URL)** | [한 줄 설명: 무슨 모델/분석을 했는지] | 2025.MM ~ 2025.MM | [학교/대회/개인] | [수상·논문 등 특이사항] |
 | **[CarNeRF](https://github.com/Wlsghdh/CarNeRF)** | [이미지 분류 DL 모델 개발] | 2026.02 ~ 현재 | 개인 | |
 | **[TabPFN-Anchor](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 논문 |
 
