@@ -54,7 +54,7 @@
 | 프로젝트 | 프로젝트 설명 | 기간 | 주관처 | 참고 |
 | --- | --- | --- | --- | --- |
 | **[CarNeRF](https://github.com/Wlsghdh/CarNeRF)** | [이미지 분류 DL 모델 개발] | 2026.02 ~ 현재 | 개인 | |
-| **[TabPFN-Anchor](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 논문 | |
+| **[TabPFN-Anchor-Stacking](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 연구 | |
 | **[Bagging-TabPFN-agri-injury](https://github.com/DamHiyo/Bagging-TabPFN-agri-injury)** | [농업인 손상 예측 모델] | 2025.09 ~ 2025.12 | [수원대학교 안홍렬 연구실] | 논문 | |
 
 ## Algorithm / Competitions
