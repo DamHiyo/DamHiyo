@@ -45,9 +45,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamHiyo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8)](https://github.com/DamHiyo)
-[![DamHiyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamHiyo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/DamHiyo)
-
 </div>
 
 ## Projects
@@ -58,7 +55,7 @@
 | --- | --- | --- | --- | --- |
 | **[CarNeRF](https://github.com/Wlsghdh/CarNeRF)** | [이미지 분류 DL 모델 개발] | 2026.02 ~ 현재 | 개인 | |
 | **[TabPFN-Anchor](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 논문 | |
-| **[[Bagging-TabPFN-agri-injury](https://github.com/DamHiyo/Bagging-TabPFN-agri-injury)** | [농업인 손상 예측 모델] | 2025.09 ~ 2025.12 | [수원대학교 안홍렬 연구실] | 논문 | |
+| **[Bagging-TabPFN-agri-injury](https://github.com/DamHiyo/Bagging-TabPFN-agri-injury)** | [농업인 손상 예측 모델] | 2025.09 ~ 2025.12 | [수원대학교 안홍렬 연구실] | 논문 | |
 
 ## Algorithm / Competitions
 
