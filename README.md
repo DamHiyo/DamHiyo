@@ -57,6 +57,7 @@
 | **[TabPFN-Anchor-Stacking](https://github.com/DamHiyo/TabPFN-Anchor-Stacking/tree/main)** | [암아종 분류 모델] | 2025.09 ~ 2026.05 | [수원대학교 안홍렬 연구실] | 후속 연구 | |
 | **[TabPFN-Anchor-TS](https://github.com/DamHiyo/TabPFN-Anchor-M1)** | [암아종 분류 모델] | 2025.09 ~ 2026.04 | [수원대학교 안홍렬 연구실] | 논문 | |
 | **[Bagging-TabPFN-agri-injury](https://github.com/DamHiyo/Bagging-TabPFN-agri-injury)** | [농업인 손상 예측 모델] | 2025.09 ~ 2025.12 | [수원대학교 안홍렬 연구실] | 논문 | |
+| **[[agri-subsidy-form-ocr](https://github.com/DamHiyo/agri-subsidy-form-ocr)** | [농업인 직불금 신청서 OCR 모델] | 2026.04 ~ 2026.05 | [개인 / 팀] | 캡스톤 디자인 | |
 
 ## Algorithm / Competitions
 
